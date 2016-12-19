@@ -1,5 +1,17 @@
 {
+  "version": "0.0.1",
+  "description": "Babel plugin that allows for C# like obtaining of string from variable or member names.",
+  "author": {
+    "name": "Maximilian Täschner",
+    "email": "maximilian.taeschner@gmail.com",
+    "url": "norocketlab.net"
+  },
+  "name": "babel-plugin-nameof",
+  "repository": {
+    "url": "git@github.com:aimed/babel-plugin-nameof.git"
+  },
   "devDependencies": {
     "babel-cli": "^6.18.0"
-  }
+  },
+  "license": "MIT"
 }
