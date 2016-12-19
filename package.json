@@ -6,9 +6,10 @@
     "email": "maximilian.taeschner@gmail.com",
     "url": "norocketlab.net"
   },
-  "name": "babel-plugin-nameof",
+  "name": "babel-plugin-nameof-js",
   "repository": {
-    "url": "git@github.com:aimed/babel-plugin-nameof.git"
+    "type": "git",
+    "url": "https://github.com/aimed/babel-plugin-nameof.git"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0"

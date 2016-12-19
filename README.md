@@ -1,6 +1,18 @@
-# babel-plugin-nameof
+# babel-plugin-nameof-js
 The plugin works with variables and object members.
-Usage:
+
+## Setup:
+```
+npm install --save-dev babel-plugin-nameof-js
+yarn add --dev babel-plugin-nameof-js
+```
+
+In your .babelrc:
+```
+"plugins": ["nameof-js"]
+```
+
+## Usage:
 
 ```javascript
 const myVar = "I love 🦄";
