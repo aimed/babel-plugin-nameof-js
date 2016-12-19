@@ -9,7 +9,7 @@
   "name": "babel-plugin-nameof-js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aimed/babel-plugin-nameof.git"
+    "url": "https://github.com/aimed/babel-plugin-nameof-js.git"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0"
