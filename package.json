@@ -1,7 +1,8 @@
 {
   "version": "0.0.2",
+  "main": "./dist/index.js",
   "scripts": {
-    "build": "babel-cli --preset es2015",
+    "build": "babel src --presets babel-preset-es2015 --out-dir dist",
     "prepublish": "npm run build"
   },
   "description": "Babel plugin that allows for C# like obtaining of string from variable or member names.",
